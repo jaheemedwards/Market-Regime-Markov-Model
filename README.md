@@ -137,6 +137,4 @@ streamlit run app.py
 * Two-panel step plots dynamically color the step line according to regime for clarity.
 * Users can include the **S&P 500** as a comparison to see relative performance.
 * All visualizations are interactive and rendered using Plotly.
-
-```
 ---
